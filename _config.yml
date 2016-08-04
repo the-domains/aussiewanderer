@@ -1,4 +1,3 @@
-layout_spectrum: 0.5583174731582403
 typography_spectrum: 0.286537371808663
 color:
   brandStrength: 0.2812340185046196
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.5583174731582403
 name: AussieWanderer
+title: The Aussie Wanderer
 description: Wandering around
