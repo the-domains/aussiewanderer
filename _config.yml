@@ -1,0 +1,14 @@
+layout_spectrum: 0.5583174731582403
+typography_spectrum: 0.286537371808663
+color:
+  brandStrength: 0.2812340185046196
+  lightness: 0.46609979774802923
+  saturation: 0.7696915226988494
+  rhythmicContrast: 0.5278310358989984
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: AussieWanderer
