@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AussieWanderer]]></title>
-        <description><![CDATA[AussieWanderer]]></description>
+        <title><![CDATA[The Aussie Wanderer]]></title>
+        <description><![CDATA[The Aussie Wanderer]]></description>
         <link>https://thegrid.ai/aussiewanderer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 22:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 22:35:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aussiewanderer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfe61253-e8d4-45cc-bd04-7650ce41cd94.jpg" alt="The Australian War Memorial, remembering those who fought and died for our freedom">]]></description>
+            <link>https://thegrid.ai/aussiewanderer/the-australian-war-memorial-remembering-those-who-fought-an/index.html</link>
+            <guid isPermaLink="false">805ad99f-3bbc-4c1e-b134-b98eb989c565</guid>
+            <pubDate>Thu, 04 Aug 2016 22:35:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Word of Mouth: 24 Hours in Reykjavik]]></title>
             <description><![CDATA[<article><h1>Word of Mouth: 24 Hours in Reykjavik</h1><p>by Adrienne So For a while now, Iceland has presented itself as a convenient layover destination for people traveling between Europe and North America-and not just because of its location in the middle of the Atlantic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/776c605854fff74ed112c78b39213ae1d40e5832.jpg"></article>]]></description>
@@ -18,13 +25,6 @@
             <description><![CDATA[<article><h1>Dogs and Peanut Butter: A Match Made in Photo Book Heaven</h1><p>If you have a dog, you know the magic of the substance known as peanut butter-a small smudge on their nose and they'll be busy for the next 30 minutes. And now, animal photographer Greg Murray is capturing this magic in his photo book For the Love of Peanut Butter .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cde08334123e2f7fe684250a00b0ba6d03a29fe.jpg"></article>]]></description>
             <link>http://petapixel.com/2016/04/15/dogs-peanut-butter-match-made-photo-book-heaven/</link>
             <guid isPermaLink="false">187dd497-a1b7-45d9-b6a8-f111686b1968</guid>
-            <pubDate>Thu, 04 Aug 2016 22:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
-            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
-            <guid isPermaLink="false">dae3b037-fa6e-436e-8409-3a12f475f16c</guid>
             <pubDate>Thu, 04 Aug 2016 22:04:53 GMT</pubDate>
         </item>
         <item>
